@@ -1,0 +1,54 @@
+    body {
+	width: 960px;
+	margin: 0 auto;
+	margin-top:20px;
+	margin-bottom: 20px;
+	}	
+	
+	.container {
+	display:block;
+	margin: 0 auto;
+	width: 960px;	
+	padding-bottom: 20px;
+	padding-top: 20px;	
+    }	
+	
+	.menu {
+	margin-right:70px;
+	margin-left:50px;
+	}
+	
+	#titre {
+	font-size: 1,2em;
+	text-align: center;
+	}
+	
+	.element-menu {
+	float: right;
+	}
+	
+	.social {
+	padding-left: 2%;
+	padding-right: 2%;
+	float: left;
+	margin: 0 auto;
+	}
+	
+	/*  Creation du menu dans le projet initial (non utilise dans la version finale) */
+	.pourmenu {
+	background-color: #E1E1E1;
+	font-size: 1em;
+	text-align: center;
+	font-family: "Arial Black", "Times new roman", Times, serif;
+	width: 120px;
+	height: 25px;
+	border-left:1px dotted black;
+	}
+	
+	.bas_de_page {
+	background-color: #000000;
+	font-size: 1em;
+	color: white;
+	text-align: center;
+	font-family: "Arial Black", "Times new roman", Times, serif;
+	}
